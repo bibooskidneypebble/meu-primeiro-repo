@@ -1,3 +1,3 @@
 # meu-primeiro-repo
 ## Colaboradores
-- Hellen Gabriele Schneider
+- Hellen Gabriele Schneider GITHUB
